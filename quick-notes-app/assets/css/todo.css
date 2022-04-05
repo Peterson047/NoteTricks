@@ -115,7 +115,7 @@ ul li.checked::before {
 
 /* Style the header */
 .header {
-  background-color: #1368d6;
+  background-color: #303030;
   padding: 30px 40px;
   color: white;
   text-align: center;
@@ -307,7 +307,7 @@ body.dark-theme {
 }
 
 div.tab-color {
-  background: #d6139b;
+  background: #1368d6;
 }
 
 body.dark-theme a {
